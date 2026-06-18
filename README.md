@@ -28,3 +28,12 @@ To analyze actual sales performance against budgeted targets and identify financ
 - Developed interactive dashboards with KPI cards, charts, and slicers.
 
 # Dashboard
+- <a href="https://github.com/AnushaValishetty2024/Financial-Performance-Variance-Analysis-Dashboard/blob/main/Screenshot%202026-06-18%20234055.png">Dashboard Image</a>
+
+# Project Insight
+- Actual sales were below budget by 9.09%.
+- Significant performance variations were observed across product categories.
+- Monthly trend analysis highlighted periods of strong and weak performance.
+  
+# Final Conclusion
+The dashboard provides a clear view of financial performance by comparing actual results with budget targets, enabling stakeholders to identify performance gaps and support data-driven business decisions.
