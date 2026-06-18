@@ -18,3 +18,13 @@ To analyze actual sales performance against budgeted targets and identify financ
 - How do sales trends change over time?
 
 # Dashboard Interaction
+- <a href="https://github.com/AnushaValishetty2024/Financial-Performance-Variance-Analysis-Dashboard/blob/main/dashboard-powerbi%201.pbix">View Dashboard</a>
+
+# Process
+- Imported Actual, Budget, and Date datasets into Power BI.
+- Performed data cleaning and transformation using Power Query.
+- Built relationships between tables using data modeling.
+- Created DAX measures for Sales, Budget, Variance, and Variance %.
+- Developed interactive dashboards with KPI cards, charts, and slicers.
+
+# Dashboard
